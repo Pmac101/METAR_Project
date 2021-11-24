@@ -2,7 +2,7 @@
 
 This is a desktop application that displays METAR (METeorological Aerodrome Report) information using Qt GUI. METAR weather reports are commonly used in aviation by pilots to assist in weather forecasting.
 
-
+*Program still under construction*
 
 
 Upon starting the program, the user shall enter a proper ICAO airport identifier into the black box beside "Enter Airport ID" and the click the "Search" button.
