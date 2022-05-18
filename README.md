@@ -1,33 +1,3 @@
-﻿**
-
-## Metar Project
-
-
-**Goals**
-
- - Design a simple program that retrieves and displays METAR data and also allows a user to create/edit a flight log.
-
-**Boundaries/Scope**
-
- - Design fully functioning METAR report and logbook from scratch 
-
-**Success Criteria**
-
- - Program functions properly without any bugs/errors
- 
-**Constraints**
-
- - Program must be completed by the end of Fall 2021 semester
-
-**Assumptions**
-
- - My computer is capable of running necessary software to complete this project
- - I will have to learn how to properly use Qt Creator
-
-**Stakeholders**
-
- - Professor Vanselow - Evaluates my project and determines my grade
- - Potential Employers - This project will be added to my student portfolio and will give me an opportunity to showcase my work and abilities
 
 **Instruction**
 
