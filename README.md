@@ -1,6 +1,3 @@
-
-**Instruction**
-
 Upon opening the program, the user will have the option of using the METAR function or the logbook function. Let's begin the METAR report. In the input box beside "Enter Airport ID", the user will type in a proper ICAO identifier and then click the "Search" button. The program will retrieve the correspinding METAR information and display the raw report in textbox labeled "Raw METAR". Specific sections of the report that are relevant to prefilght checklists will be displayed in labeled textboxes on the left-hand side of the program interface.
 
 ![Screenshot (1131)](https://user-images.githubusercontent.com/51823622/146234707-42463dc4-2094-4e5a-bfdd-f056a4276c70.png)
